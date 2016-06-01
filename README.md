@@ -1,13 +1,13 @@
-## Intern Onboarding Project
+# Intern Onboarding Project
 ___
 
-### Description
+## Description
 ___
 A generic user management system that utilizes a backend to view and edit an arbitrary list of users. 
 
-### How to use 
+## How to use 
 ___
 
 
-### Dependencies
+## Dependencies
 ___
